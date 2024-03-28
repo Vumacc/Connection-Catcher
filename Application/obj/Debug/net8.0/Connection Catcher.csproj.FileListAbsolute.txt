@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\bin\Debug\net8.0\Connection Catcher.exe
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\bin\Debug\net8.0\Connection Catcher.deps.json
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\bin\Debug\net8.0\Connection Catcher.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\bin\Debug\net8.0\Connection Catcher.dll
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\bin\Debug\net8.0\Connection Catcher.pdb
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\Connection Catcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\Connection Catcher.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\Connection Catcher.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\Connection Catcher.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\Connection Catcher.dll
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\refint\Connection Catcher.dll
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\Connection Catcher.pdb
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\Connection Catcher.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Firewall\Application\obj\Debug\net8.0\ref\Connection Catcher.dll

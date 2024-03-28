@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firewall", "Firewall\Firewall.csproj", "{FA8FD709-44DB-4F59-B5E5-08A1FE14624E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Firewall", "Firewall", "{34180D6D-733C-4CEE-B897-0F482A102518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection Catcher", "Firewall\Connection Catcher\Connection Catcher.csproj", "{B550B441-ADC2-4307-A893-D53E8E445147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8FD709-44DB-4F59-B5E5-08A1FE14624E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8FD709-44DB-4F59-B5E5-08A1FE14624E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8FD709-44DB-4F59-B5E5-08A1FE14624E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8FD709-44DB-4F59-B5E5-08A1FE14624E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B550B441-ADC2-4307-A893-D53E8E445147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B550B441-ADC2-4307-A893-D53E8E445147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B550B441-ADC2-4307-A893-D53E8E445147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B550B441-ADC2-4307-A893-D53E8E445147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA8FD709-44DB-4F59-B5E5-08A1FE14624E} = {34180D6D-733C-4CEE-B897-0F482A102518}
+		{B550B441-ADC2-4307-A893-D53E8E445147} = {34180D6D-733C-4CEE-B897-0F482A102518}
+	EndGlobalSection
+EndGlobal
